@@ -1,0 +1,150 @@
+body {
+  background-color: peachpuff;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  cursor: pointer;
+}
+
+.div1 {
+  background-color: black;
+  color: white;
+  height: 580px;
+  width: 300px;
+  margin-left: 300px;
+  border: none;
+  border-radius: 30px;
+  margin-top: 20px;
+}
+
+.Paragraph-1 {
+  margin-left: 80px;
+  display: inline-block;
+  margin-top: 95px;
+  font-size: 20px;
+}
+
+.Email {
+  margin-left: 56px;
+  margin-top: 270px;
+  background-color: black;
+  color: gainsboro;
+  border-style: bold;
+  border-color: white;
+  border-width: 1px;
+  border-radius: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 80px;
+  padding-left: 15px;
+  font-size: 12px;
+  margin-bottom: 15px;
+}
+.Get{
+  margin-left: 56px;
+  background-color: orange;
+  color: gainsboro;
+  border-style: bold;
+  border-color: white;
+  border-width: 1px;
+  border-radius: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 68px;
+  padding-left: 68px;
+  font-size: 12px;
+}
+
+.Later-Paragraph{
+  font-size: 11px;
+  margin-left: 60px;
+  color: gainsboro;
+}
+
+.div2{
+  background-color: lightblue;
+  color: white;
+  height: 580px;
+  width: 300px;
+  margin-left: -20px;
+  border: none;
+  border-radius: 30px;
+  margin-top: 20px;
+}
+.Paragraph-2{
+  margin-left: 20px;
+  margin-top: 250px;
+  font-size: 20px;
+  color: black;
+  padding-top: 25px;
+  font-weight: 700;
+}
+.div3{
+  background-color: white;
+  border-radius: 30px;
+  height: 330px;
+}
+.button-1{
+  border-width: 1px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 145px;
+  padding-left: 20px;
+  border-radius: 12px;
+  border-color: gainsboro;
+  color: gray;
+  margin-left: 10px;
+  background-color: white;
+}
+.button-2{
+  border-width: 1px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 200px;
+  padding-left: 20px;
+  border-radius: 12px;
+  border-color: gainsboro;
+  color: gray;
+  margin-left: 10px;
+  margin-top: 8px;
+  background-color: white;
+}
+.button-3{
+  border-width: 1px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 200px;
+  padding-left: 20px;
+  border-radius: 12px;
+  border-color: gainsboro;
+  color: gray;
+  margin-left: 10px;
+  margin-top: 8px;
+  background-color: white;
+}
+.button-4{
+  border: none;
+  border-width: 1px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 120px;
+  padding-left: 120px;
+  border-radius: 12px;
+  color: white  ;
+  margin-left: 10px;
+  margin-top: 8px;
+  background-color: orange;
+}
+.button-5{
+  border-width: 1px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-right: 150px;
+  border-radius: 12px;
+  border-color: gainsboro;
+  color: gray;
+  margin-left: 10px;
+  margin-left: 70px;
+  margin-top: 25px;
+  background-color: black;
+}
